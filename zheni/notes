@@ -1,0 +1,11 @@
+## Notes ## 
+- Contains all important notes related to this project
+---------------------------------------------------------------------------------------------------------------------------------
+# Packages #
+- AdminLTE          : Project Template [https://github.com/acacha/adminlte-laravel]
+- IDEHelper         : Auto-complete for Laravel using Netbeans [https://gist.github.com/barryvdh/5227822]
+- Laravid           : Jquery Validation Plugin [https://github.com/bllim/laravalid]
+---------------------------------------------------------------------------------------------------------------------------------
+# Customizations #
+- Localization      : Added a Language file 'message.php' in resources>lang>en to override vendor's message.php
+---------------------------------------------------------------------------------------------------------------------------------
